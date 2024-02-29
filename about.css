@@ -3,6 +3,7 @@
 :root{
     --color-primary: #6c63ff;
     --color-success: #00bf8e;
+    
     --color-warning: #f7c94b;
     --color-danger: #f75842;
     --color-danger-variant:rgba(247, 88, 66, 0.4);
